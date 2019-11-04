@@ -1,0 +1,10 @@
+#exclude
+
+node_modules
+package-lock.json
+
+my-app-1/node_modules
+my-app-1/package-lock.json
+
+react-route-master/node_modules
+react-route-master/package-lock.json
